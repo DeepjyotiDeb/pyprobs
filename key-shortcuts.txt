@@ -1,0 +1,3 @@
+prettier
+win: alt shift f
+mac: cmd k f
